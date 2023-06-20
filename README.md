@@ -22,7 +22,7 @@ Siga as etapas abaixo para executar o aplicativo:
 1. Clone o repositório para o seu ambiente local:
 
    ```
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/icaiow/trabalho_final.git
    ```
 
 2. Acesse o diretório do projeto:
